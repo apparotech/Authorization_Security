@@ -25,6 +25,11 @@ dependecy :
 		</dependency>
 
   ![image](https://github.com/user-attachments/assets/3ef59dcf-56e6-48ac-880f-f7f8b564d96a)
+
+  Tech use:
+  java 
+  my sql
+  postman
   
 
   
