@@ -37,6 +37,12 @@ dependecy :
 
   ![image](https://github.com/user-attachments/assets/e92fe1c9-8495-4f61-8fce-4a8a527a7f13)
 
+  ![image](https://github.com/user-attachments/assets/79ebd1be-5669-4853-bfbe-065a39abe295)
+
+  Now we have successfully created a JWT token and sent back to user. Now if we want to access any other resource,
+  we will get a 403 Forbidden error which means the request is not authenticated.
+
+
 
 
   
